@@ -1,11 +1,8 @@
-# Jatin-Saini
-I automate the boring stuff so teams can focus on what matters.
-<h1 align="center">Yo 👋 I'm Jatin Saini</h1>
+<h1 align="center">Hey there, I'm Jatin Saini 👋</h1>
 <p align="center">
 🧠 Ops • Automation • AI Systems  |  🚀 Turning chaos into clean workflows <br/>
 📍 Bangalore, India · 💌 <a href="mailto:jatinsaini1019@gmail.com">jatinsaini1019@gmail.com</a> <br/>
-<a href="https://www.linkedin.com/in/jatinsaini/">LinkedIn</a> · 
-<a href="https://x.com/jatin_saini">X</a>
+<a href="https://www.linkedin.com/in/jatinsaini09/">LinkedIn</a>
 </p>
 
 ---
@@ -67,8 +64,7 @@ Built high-value B2B connections, delivered LMS demos, and optimized lead manage
 Always down to talk about 👇  
 ⚙️ Workflow Automation · 🤖 Agentic AI Systems · 📈 Ops Strategy · 💡 Growth Experiments  
 
-📫 **Reach me at:** [jatinsaini1019@gmail.com](mailto:jatinsaini1019@gmail.com)  
-🐦 **Follow my builds:** [@jatin_saini](https://x.com/jatin_saini)
+📫 **Reach me at:** [jatinsaini1019@gmail.com](mailto:jatinsaini1019@gmail.com)
 
 ---
 
