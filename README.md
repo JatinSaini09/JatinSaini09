@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JatinS9/JatinS9/main/https___dev-to-uploads.s3.amazonaws.com_uploads_articles_mgzr4ryu004au2ak9hzf.webp" 
+  <img src="https___dev-to-uploads.s3.amazonaws.com_uploads_articles_mgzr4ryu004au2ak9hzf.webp" 
        alt="Jatin Saini GitHub Banner" width="100%" />
 </p>
 
