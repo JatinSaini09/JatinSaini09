@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JatinS9/JatinS9/main/https___dev-to-uploads.s3.amazonaws.com_uploads_articles_mgzr4ryu004au2ak9hzf.webp" 
+       alt="Jatin Saini GitHub Banner" width="100%" />
+</p>
+
 <h1 align="center">Hey there, I'm Jatin Saini 👋</h1>
 <p align="center">
 🧠 Ops • Automation • AI Systems  |  🚀 Turning chaos into clean workflows <br/>
@@ -22,6 +27,28 @@ Think: Slack bots, n8n flows, Google Apps Scripts, dashboards, and mini agentic 
 
 **Tech Stack:**  
 `n8n` `Google Apps Script` `Python` `Node.js` `API Integrations` `Google Data Studio` `Metabase` `Slack & WhatsApp APIs`
+
+---
+
+### 🧠 Skills & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-n8n-orange?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Google%20Apps%20Script-blue?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/-Metabase-1E90FF?style=for-the-badge&logo=metabase" />
+  <img src="https://img.shields.io/badge/-Slack%20API-4A154B?style=for-the-badge&logo=slack" />
+  <img src="https://img.shields.io/badge/-Data%20Studio-4285F4?style=for-the-badge&logo=googledatastudio" />
+</p>
+
+| **Category** | **Skills / Tools** |
+|---------------|--------------------|
+| **Automation** | n8n, Google Apps Script, Slack & WhatsApp APIs |
+| **Operations** | CRM Optimization, SOP Development, KPI Dashboards |
+| **Data & Insights** | Metabase, Google Data Studio, Sheets API |
+| **Product & Growth** | GTM Strategy, Funnel Optimization, User Workflows |
+| **AI Systems** | Agentic AI, Prompt Systems, Workflow Agents |
 
 ---
 
