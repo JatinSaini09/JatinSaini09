@@ -14,7 +14,7 @@
 ---
 
 ### ⚡ TL;DR
-- Built automation pipelines that generated **₹5Cr+ in business impact** at Masai School  
+- Scaled **EmpowerHer** & **MasaiOne** to **4,700+ learners** with structured GTM, webinars, and creator partnerships
 - Scaled flagship programs (EmpowerHer, MasaiOne) enrolling **4,700+ learners**  
 - Boosted conversion rates by **30%** and reduced operational errors by **70%**  
 - Implemented 50+ automations using **n8n**, **Apps Script**, and **API Integrations**  
