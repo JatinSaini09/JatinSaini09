@@ -3,99 +3,49 @@
        alt="Jatin Saini GitHub Banner" width="100%" />
 </p>
 
-
-<h1 align="center">Hey there, I'm Jatin Saini 👋</h1>
+<h1 align="center">Jatin Saini — Ops × Automation Architect</h1>
 <p align="center">
-🧠 Ops • Automation • AI Systems  |  🚀 Turning chaos into clean workflows <br/>
-📍 Bangalore, India · 💌 <a href="mailto:jatinsaini1019@gmail.com">jatinsaini1019@gmail.com</a> <br/>
-<a href="https://www.linkedin.com/in/jatinsaini09/">LinkedIn</a>
+I design invisible systems that scale — workflows, data pipes, bots, and guardrails that make teams faster.<br/>
+📍 Bangalore, India · 💌 <a href="mailto:jatinsaini1019@gmail.com">jatinsaini1019@gmail.com</a> · <a href="https://www.linkedin.com/in/jatinsaini09/">LinkedIn</a>
 </p>
 
 ---
 
-### ⚡ TL;DR
-- Scaled **EmpowerHer** & **MasaiOne** to **4,700+ learners** with structured GTM, webinars, and creator partnerships
-- Scaled flagship programs (EmpowerHer, MasaiOne) enrolling **4,700+ learners**  
-- Boosted conversion rates by **30%** and reduced operational errors by **70%**  
-- Implemented 50+ automations using **n8n**, **Apps Script**, and **API Integrations**  
-- 🏆 Recognized as **Emerging Leader 2025** for measurable impact & innovation  
+## TL;DR (signal, not noise)
+- Scaled **EmpowerHer** & **MasaiOne** to **4,700+ learners** with structured GTM, webinars, and creator partnerships  
+- Funnel upgrades delivered **+30% conversion** and **−70% ops errors** through CRM + workflow redesign  
+- Built **50+ automations** using **n8n**, **Apps Script**, and **API integrations** across Slack/WhatsApp  
+- Cut SLA breaches by **60%**; support TAT improved **50%** with SOPs, escalation trees, and dashboards  
+- **Emerging Leader 2025** for high-leverage ops + automation delivery
+
+> I ship flows, not slides. Daily drivers → `n8n` · `Google Apps Script` · `Python` · `Node.js` · `APIs` · `Metabase` · `Data Studio`
 
 ---
 
-### 💻 What I Build
-I build systems where **operations meet automation** — making business workflows faster, smarter, and self-sustaining.  
-Think: Slack bots, n8n flows, Google Apps Scripts, dashboards, and mini agentic systems that *just work.*
+## Systems Map (how I think & build)
+```mermaid
+flowchart LR
+  subgraph Intake
+    A[Leads & Forms] -->|Webhook/API| B[CRM]
+    C[Inbound DMs] -->|Keywords| B
+  end
 
-**Tech Stack:**  
-`n8n` `Google Apps Script` `Python` `Node.js` `API Integrations` `Google Data Studio` `Metabase` `Slack & WhatsApp APIs`
+  subgraph Automation
+    B --> D[n8n Orchestrator]
+    D --> E[Apps Script Jobs]
+    D --> F[Slack/WhatsApp Bots]
+    D --> G[Email/SMS]
+  end
 
----
+  subgraph Data
+    E --> H[Google Sheets]
+    D --> H
+    H --> I[Metabase Dashboards]
+  end
 
-### 🧠 Skills & Tools
+  subgraph Governance
+    D -.-> J[SOPs & Escalations]
+    H -.-> K[KPIs & SLA Alerts]
+  end
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-n8n-orange?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Google%20Apps%20Script-blue?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/-Metabase-1E90FF?style=for-the-badge&logo=metabase" />
-  <img src="https://img.shields.io/badge/-Slack%20API-4A154B?style=for-the-badge&logo=slack" />
-  <img src="https://img.shields.io/badge/-Data%20Studio-4285F4?style=for-the-badge&logo=googledatastudio" />
-</p>
-
-| **Category** | **Skills / Tools** |
-|---------------|--------------------|
-| **Automation** | n8n, Google Apps Script, Slack & WhatsApp APIs |
-| **Operations** | CRM Optimization, SOP Development, KPI Dashboards |
-| **Data & Insights** | Metabase, Google Data Studio, Sheets API |
-| **Product & Growth** | GTM Strategy, Funnel Optimization, User Workflows |
-| **AI Systems** | Agentic AI, Prompt Systems, Workflow Agents |
-
----
-
-### 🧩 Projects & Automations
-- 🪄 **RPG Automation (n8n + Apps Script)** — automated resume/portfolio/github grading workflow for students  
-- ⚙️ **Masai Admissions Funnel Automation** — CRM + WhatsApp + email integration boosting conversions  
-- 📊 **Offer Letter Tracker** — Google Sheets + Apps Script pipeline tracking real-time placement metrics  
-- 🤖 **DM Keyword Bot** — automated DM responder for Masai’s social campaigns (built on Serri + n8n)  
-- 🧠 **Metabase → Sheets Sync** — automated data ingestion for performance dashboards  
-
-*(Pin these repos to the top of your profile for max visibility!)*  
-
----
-
-### 🚀 Career So Far
-**Masai School — Operations Manager (Mar 2022 – Present)**  
-Scaled operations & growth workflows across programs, automated pipelines, and led cross-functional execution.
-
-**Lido Learning — Assistant Marketing Manager (2021 – 2022)**  
-Drove outreach campaigns across India, collaborated with Microsoft, and generated 7K+ qualified leads.
-
-**Zotalabs & Basyl Education — BizDev Roles (2020 – 2021)**  
-Built high-value B2B connections, delivered LMS demos, and optimized lead management funnels.
-
----
-
-### 🎓 Certifications
-- 🧩 **Product Management with Agentic AI Fellowship** — NextLeap (2025)  
-- 💼 **Google Digital Marketing** — Google (2020)  
-
----
-
-### 🏆 Awards & Recognition
-- 🥇 **Emerging Leader 2025** — Masai School  
-- 💫 **Commitment to Excellence Award 2023** — Masai School  
-
----
-
-### 🌐 Let’s Connect
-Always down to talk about 👇  
-⚙️ Workflow Automation · 🤖 Agentic AI Systems · 📈 Ops Strategy · 💡 Growth Experiments  
-
-📫 **Reach me at:** [jatinsaini1019@gmail.com](mailto:jatinsaini1019@gmail.com)
-
----
-
-### 📊 GitHub Vibes
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JatinS9&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JatinS9&layout=compact&theme=tokyonight)
+  I --> L[Decisions · Experiments · Growth]
